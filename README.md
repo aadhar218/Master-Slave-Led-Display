@@ -1,1 +1,1 @@
-# Master-Slave-using-arduino
+# Master-Slave Led controller
